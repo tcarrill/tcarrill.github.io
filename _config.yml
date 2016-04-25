@@ -1,7 +1,28 @@
-name: tc
-pygments: true
-github: https://www.github.com/tcarrill
-about: I am a software engineer with an interest in machine learning and general computer science theory.
-urls:
-    - text: github
-      url: https://github.com/tcarrill
+# Dependencies
+markdown:         kramdown 
+highlighter:      pygments
+
+# Permalinks
+#permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            tc
+tagline:          'Interesting things and stuff'
+description:      ''
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Thomas Carrill'
+  url:            http://thomas.moonlab.org
+
+paginate:         5
+
+# Custom vars
+#version:          2.1.0
+
+github:
+  repo:           http://github.com/tcarrill
+
+gems: [jekyll-paginate]

@@ -2,6 +2,9 @@
 layout: post
 title:  "kNN - k Nearest Neighbors"
 date:   2016-04-20 00:15:45 
-categories: ruby
+categories: ml
 ---
 An explanation and implementation of the simple kNN algorithm.
+
+Distance calculation using the Euclidean Distance
+\\[ \sqrt{\sum_{i=1}^{n}{(q_{i}-p_{i})^2}} \\]
