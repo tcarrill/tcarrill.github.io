@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>tc</title>
+ <link href="http://hyde.getpoole.com/atom.xml" rel="self"/>
+ <link href="http://hyde.getpoole.com/"/>
+ <updated>2016-05-09T17:56:09-04:00</updated>
+ <id>http://hyde.getpoole.com</id>
+ <author>
+   <name>Thomas Carrill</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>kNN - k Nearest Neighbors</title>
+   <link href="http://hyde.getpoole.com/ml/2016/04/19/knn.html"/>
+   <updated>2016-04-19T20:15:45-04:00</updated>
+   <id>http://hyde.getpoole.com/ml/2016/04/19/knn</id>
+   <content type="html">&lt;p&gt;An explanation and implementation of the simple kNN algorithm.&lt;/p&gt;
+
+&lt;p&gt;Distance calculation using the Euclidean Distance
+\[ \sqrt{\sum_{i=1}^{n}{(q_{i}-p_{i})^2}} \]&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
