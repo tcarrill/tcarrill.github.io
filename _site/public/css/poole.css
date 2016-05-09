@@ -429,8 +429,16 @@ a.pagination-item:hover {
   }
 }
 
+h1.post-title {
+	display: table-cell;
+    margin-top: 55px;
+    text-align: center;
+}
+
 div.header {
+	display: table;
 	margin-bottom: .5rem;
 	background: url('../../img/header.png');
-	height: 150px;
+	height: 100px;
+	width: 100%;
 }
