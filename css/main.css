@@ -25,7 +25,8 @@ span.time {
 
 h1 {
     font-weight: normal;
-    color: #696969;
+    /*color: #696969;*/
+color: #00FF00;
     margin-bottom: 10px;
 }
 
@@ -157,3 +158,4 @@ div.col-sm-3 img#about {
     margin-left: auto;
     margin-right: auto;
 }
+

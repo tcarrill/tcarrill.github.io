@@ -8,3 +8,4 @@ An explanation and implementation of the simple kNN algorithm.
 
 Distance calculation using the Euclidean Distance
 \\[ \sqrt{\sum_{i=1}^{n}{(q_{i}-p_{i})^2}} \\]
+    
