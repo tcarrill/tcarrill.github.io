@@ -433,6 +433,7 @@ h1.post-title {
 	display: table-cell;
     text-align: center;
 	color: #000000;
+	font-style: italic;
 }
 
 div.header {
