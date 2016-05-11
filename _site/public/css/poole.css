@@ -429,10 +429,16 @@ a.pagination-item:hover {
   }
 }
 
-h1.post-title {
-	display: table-cell;
+div.header h1.post-title {
     text-align: center;
 	color: #000000;
+	font-style: italic;
+	font-size: 25pt;
+}
+
+u {
+	text-decoration: none;
+	border-bottom: 1px solid black;
 }
 
 div.header {
